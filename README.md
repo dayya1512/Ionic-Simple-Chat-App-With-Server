@@ -1,10 +1,6 @@
 This is Ionic Chat App using Socket. 
-Node server is used.
 
-For ionic part, use Ionic Socket file
-  -npm install
-  -ionic serve
+For ionic part, use Ionic Socket file. Clone the file, run [npm install], and then [ionic serve]
 
-For server part, use index.js
-  -nodemon index.js
+For server part, use index.js file. Run nodemon index.js
 
